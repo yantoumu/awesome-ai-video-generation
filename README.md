@@ -113,6 +113,7 @@ Animate still images.
 | [MyHeritage Deep Nostalgia](https://myheritage.com) | Old photos | Consumer-focused |
 | [Kaiber](https://kaiber.ai) | Music videos | Artistic style transfer |
 | [LeiaPix](https://leiapix.com) | 3D depth | 2D to 3D conversion |
+| [PVID](http://pvid.app/) | Image/Text/Video to Video | Kling 3.0, Sora 2, Veo 3.1, 100 free credits |
 
 ## Open Source
 
