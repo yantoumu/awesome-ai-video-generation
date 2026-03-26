@@ -31,6 +31,7 @@ Generate video from text prompts. The core AI video tech.
 | [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Free tier available | Quick generations | Fast. Good for ideation and prototyping. |
 | [Kling AI](https://klingai.com) | Freemium | Longer videos | Up to 2min videos. Motion brush controls. |
 | [Minimax Video](https://minimax.io) | Freemium | Hailuo model | Strong character consistency. |
+| [PVID](https://pvid.app/) | Free tier | Multi-model aggregation | Aggregates Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video. 100 free credits. |
 | [Haiper](https://haiper.ai) | Free | Quick clips | 2-4 second generations. Good quality for free. |
 | [Genmo](https://genmo.ai) | Freemium | Mochi model | Open weights available. |
 | [PixVerse](https://pixverse.ai) | Freemium | Stylized content | Good for anime/artistic styles. |
